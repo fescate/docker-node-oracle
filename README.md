@@ -22,7 +22,7 @@ FROM fescate/docker-node-oracle
 
 ## Versions
 
-Edit the docker file with your prefered node version and make a build
+Edit the docker file with your prefered node version and build
 
 ```
 FROM node:{VERSION}
@@ -31,7 +31,7 @@ FROM node:{VERSION}
 
 ### :latest
 
-Using "latest" (FROM fescate/docker-node-oracle) as the version will use "FROM NODE:6" as it's base image.  It is recommended that you use a specific version (X.X.X) but if you only want the latest version of Node 6.X.X then latest will work.
+Using "latest" (FROM fescate/docker-node-oracle) as the version will use "FROM NODE:6.11.5" as it's base image.  It is recommended that you use a specific version (X.X.X).
 
 
 ### forked from
