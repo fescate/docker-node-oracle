@@ -1,7 +1,7 @@
 # docker-node-oracle
 
 
-Docker image to be used for building a container ready with Oracle instant client 12.2 binaries and all necessary environment variables needed to use the primary Node.js Oracle Database driver librarie
+Docker image to be used for building a container ready with Oracle instant client 12.2 binaries and all necessary environment variables needed to use the primary Node.js Oracle Database driver libraries
 
 [node-oracledb](https://github.com/oracle/node-oracledb)
 
